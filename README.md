@@ -1,2 +1,2 @@
-# test-calendar
+# custom-tui-calendar
 Created with CodeSandbox
